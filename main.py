@@ -8,3 +8,4 @@ class LecsLusanaApp(App):
 if __name__ == '__main__':
     LecsLusanaApp().run()
     # build apk now
+# start build now
