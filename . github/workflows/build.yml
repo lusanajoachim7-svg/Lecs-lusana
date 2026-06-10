@@ -21,3 +21,4 @@ jobs:
       with:
         name: LECS-LUSANA-APK
         path: bin/*.apk
+        
